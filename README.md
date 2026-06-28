@@ -1,2 +1,2 @@
-# Deepwoken
-Issue tracker for https://deepwoken.net
+# Deepwoken Bug Tracker
+Bug tracker for https://deepwoken.net
